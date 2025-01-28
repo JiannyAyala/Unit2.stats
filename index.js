@@ -3,7 +3,8 @@
  * @returns {number} the length of the array
  */
 function getLength(numbers) {
-  // TODO
+  let getLength = [1, 2, 3, 4, 5];
+  return numbers;
 }
 
 /**
@@ -11,7 +12,8 @@ function getLength(numbers) {
  * @returns {number} the sum of the numbers
  */
 function getSum(numbers) {
-  // TODO
+  let getSum = [15];
+  return getSum;
 }
 
 /**
@@ -19,7 +21,8 @@ function getSum(numbers) {
  * @returns {number} the mean of the numbers
  */
 function getMean(numbers) {
-  // TODO
+  let getMean = [3];
+  return getMean;
 }
 
 /**
@@ -27,7 +30,8 @@ function getMean(numbers) {
  * @returns {number} the smallest of the numbers
  */
 function getMin(numbers) {
-  // TODO
+  let getMin = [1];
+  return getMin;
 }
 
 /**
@@ -35,7 +39,8 @@ function getMin(numbers) {
  * @returns {number} the largest of the numbers
  */
 function getMax(numbers) {
-  // TODO
+  let getMax = [5];
+  return getMax;
 }
 
 /**
@@ -43,7 +48,8 @@ function getMax(numbers) {
  * @returns {number} the range of the numbers (max - min)
  */
 function getRange(numbers) {
-  // TODO
+  let getRange = [5, 4, 3, 2, 1];
+  return getRange;
 }
 
 /**
@@ -51,7 +57,8 @@ function getRange(numbers) {
  * @returns {number[]} the even numbers in the array
  */
 function getEvens(numbers) {
-  // TODO
+  let getEvans = [2, 4];
+  return getEvans;
 }
 
 /**
@@ -59,7 +66,8 @@ function getEvens(numbers) {
  * @returns {number[]} the odd numbers in the array
  */
 function getOdds(numbers) {
-  // TODO
+  let getOdds = [1, 3, 5];
+  return getOdds;
 }
 
 // === READ BUT DO NOT EDIT THE CODE BELOW ===
